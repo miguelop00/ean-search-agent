@@ -13,7 +13,6 @@ Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
    TELEGRAM_TOKEN = ''
    ```
 3. Ejecutar el agente: `python -m app.main`
-   ```bash
-   python -m app.main
-   ```
-5. En un nuevo terminal, ejecutar el bot de telegram: `python -m telegram_bot.bot`
+4. En un nuevo terminal, ejecutar el bot de telegram: `python -m telegram_bot.bot`
+
+
