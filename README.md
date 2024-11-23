@@ -11,5 +11,5 @@ Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
 # archivo: ean-search-agent/.env
 OPENAI_API_KEY = ''
 TELEGRAM_TOKEN = ''
-
+```
 3.  
