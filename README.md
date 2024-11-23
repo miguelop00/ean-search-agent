@@ -1,1 +1,1 @@
-# Product search AI agent by EAN number
+# Agente de IA para búsqueda de productos mediante número EAN
