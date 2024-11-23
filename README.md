@@ -4,4 +4,5 @@ Este proyecto presenta un asistente de búsqueda de productos mediante números 
 
 ### Uso del agente
 
-Antes de ejecutar c
+Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
+1. Crear y activar un entorno virtual, para instalar los requerimientos del proyecto: `pip install -r requirements.txt
