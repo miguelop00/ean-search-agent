@@ -5,7 +5,8 @@ Este proyecto presenta un asistente de búsqueda de productos mediante números 
 ### Uso del agente
 
 Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
-1. Crear y activar un entorno virtual, para instalar los requerimientos del proyecto: `pip install -r requirements.txt`
+1. Crear y activar un entorno virtual, para instalar los requerimientos del proyecto:
+   `pip install -r requirements.txt`
 2. En el directorio de trabajo (ean-search-agent), crear un archivo .env en el cual se incluirán los campos de configuración de OpenAI y de Telegram:
    ```python
    #.env
@@ -14,5 +15,7 @@ Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
    ```
 3. Ejecutar el agente: `python -m app.main`
 4. En un nuevo terminal, ejecutar el bot de telegram: `python -m telegram_bot.bot`
+
+Una vez el agente está en funcionamiento, se le podrá mandar un mensaje mediante Telegram, o en su defecto a través de una máquina local (localhost:8000) usando FastAPI. Como se especifica en los requisitos del proyecto, el agente devolverá una respuesta concisa respecto a la búsqueda, así como 3 archivos: ean.json, blocks.json y descriptive_blocks.html.
 
 
