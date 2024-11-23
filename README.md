@@ -10,5 +10,6 @@ Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
 ```python
 # archivo: ean-search-agent/.env
 OPENAI_API_KEY = ''
-TELEGRAM_TOKEN = ''```
+TELEGRAM_TOKEN = ''
+
 3.  
