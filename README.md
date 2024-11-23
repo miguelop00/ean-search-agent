@@ -8,6 +8,6 @@ Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
 1. Crear y activar un entorno virtual, para instalar los requerimientos del proyecto: `pip install -r requirements.txt`
 2. En el directorio de trabajo (ean-search-agent), crear un archivo .env en el cual se incluirán los siguientes campos:
 ```python
-print()
-```TELEGRAM_TOKEN: ''```
+OPENAI_API_KEY = ''
+TELEGRAM_TOKEN = ''
 3.  
