@@ -1,1 +1,1 @@
-# ean-search-agent
+# Product search AI agent by EAN number
