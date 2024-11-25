@@ -12,7 +12,6 @@ Para cumplir con los objetivos del proyecto, se han tomado varias decisiones en 
 Para el buen desarrollo de este proyecto, es fundamental obtener buenos datos y de forma sencilla desde el primer momento, y es por ello que la base de datos es un pilar muy importante. Existen varias APIs que funcionarían, pero se
 ha decidido utilizar UPCItemDB, por su sencillez y coste 0 para pequeñas cantidades de consultas. Quizás una mejora futura a añadir sería cambiar el tipo de base de datos utilizada, pero para la primera versión del proyecto, 
 esta nos daba todos los campos necesarios para trabajar.
-<br>
 
 ### 2. LlamaIndex
 Debido a mi reciente experiencia utilizando agentes de IA y LlamaIndex, este será el framework que se va a utilizar para implementar la solución.
@@ -46,14 +45,20 @@ Este es un ejemplo de dichos bloques:
 
 - create_HTML: crea un archivo HTML enfocado a vender el producto o darle un enfoque más comercial. Esto lo consigue utilizando también un modelo de IA dentro de la herramienta, en este caso un modelo que nos permita la mayor
 creatividad posible.
-<br>
+
 
 ### 3. Modelos de IA
 Si hablamos de agentes de IA, que utilicen herramientas o llamadas externas, existen varios modelos de código abierto que podrían funcionar bien, aunque por el momento, OpenAI sigue siendo la opción a elegir si se quiere construir un agente
 totalmente fiable. Es por ello que en este proyecto se utilizará en su mayoría el modelo `gpt-3.5-turbo`, salvo en ciertas ocasiones que requieran una mayor creatividad o desempeño, en los que se utilizará `gpt-4`. Todo ello haciendo
-uso de la librería de LlamaIndex `llama-index-llms-openai`
+uso de la librería de LlamaIndex `llama-index-llms-openai`.
 
+### 4. Interacción con el agente
+Para tener una conversación sencilla y fluida con el agente, se ha decidido crear un bot de Telegram mediante la librería `python-telegram-bot`. Ello nos va a permitir poder enviar mensajes de la forma más sencilla y recibir su respuesta de igual manera, en la que se incluirán los archivos generados.
 
+Para ello, el propio agente incluye 2 funciones que enviarán texto y archivos respectivamente, y las ejecutará al final de cada mensaje. Este será otro punto a mejorar en versiones posteriores, si se quisiera hacer un agente más conversacional o con mejores funcionalidades.
+
+## Conclusión
+Como comentarios finales del proyecto, cabe destacar que ha cumplido las expectativas tanto de tiempo como de alcance, siendo una solución válida para su uso comercial. Ya sea como buscador o agente conversacional, genera resultados correctos y sin alucinaciones, convirtiéndolo así en una solución fiable y rápida.
 
 
 
