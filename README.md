@@ -24,4 +24,10 @@ Una vez el agente está en funcionamiento, se le podrá mandar un mensaje median
 
 
 ## Ejemplos de uso
-*El agente se ha construido en inglés en este caso, ya que los datos de UPCItemDB también se reciben en inglés*
+*El agente se ha construido en inglés en este caso, ya que los datos de UPCItemDB también se reciben en inglés
+
+<br><br><br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/28c780d1-3f79-4a3c-aab9-26a0ee2765b5" alt="chatbot1" width="300"/>   
+</div>
+<br><br><br>
