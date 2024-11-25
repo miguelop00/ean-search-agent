@@ -30,12 +30,23 @@ Los 2 ejemplos que muestro en este documento han sido llevados a cabo utilizando
 - 0050036399302: Altavoz JBL Go 4
 - 0791109269602: Apple MacBook Pro
 
+En este primer ejemplo, se muestra como tras mandar como mensaje el numero EAN del producto, el agente devuelve una respuesta concisa en relación a la búsqueda, así como los 3 archivos requeridos por el proyecto:
 <br><br>
 <div align="center">
   <figure>
      <img src="https://github.com/user-attachments/assets/28c780d1-3f79-4a3c-aab9-26a0ee2765b5" alt="movil jbl" width="250"/>
   </figure>
-   
+</div>
+<br><br><br>
+
+Si echamos un vistazo a los archivos generados, podremos ver que incluyen toda la información disponible en la base de datos UPCItem. Cabe destacar que, si algún campo se ha dejado en blanco se debe a que no se incluye en dicha base de datos, como se puede observar en el campo "Category". Quizás en un futuro se podría implementar una nueva herramienta que genere mediante IA los campos restantes si alguno queda vacío.
+<br><br>
+<div align="center">
+  <figure>
+     <img src="https://github.com/user-attachments/assets/2ba92044-e40f-4440-b81b-c8068126a523" alt="ean jbl" width="400"/>
+     <br>
+     <img src="https://github.com/user-attachments/assets/ca6ce798-7618-43ac-88ad-681950ddd245" alt="ean jbl" width="400"/>
+  </figure>
 </div>
 <br><br><br>
 
