@@ -38,7 +38,7 @@ Los 2 ejemplos que muestro en este documento han sido llevados a cabo utilizando
   </div>
 
   <!-- Contenedor de las imágenes verticales a la derecha -->
-  <div style="display: flex; flex-direction: column; margin-left: 10px;">
+  <div style="display: flex; flex-direction: column; margin-right: 10px;">
     <img src="https://via.placeholder.com/150" alt="Imagen superior derecha" style="width: 150px; height: auto; margin-bottom: 10px;">
     <img src="https://via.placeholder.com/150" alt="Imagen inferior derecha" style="width: 150px; height: auto;">
   </div>
