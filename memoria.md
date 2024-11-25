@@ -58,7 +58,7 @@ Para tener una conversación sencilla y fluida con el agente, se ha decidido cre
 Para ello, el propio agente incluye 2 funciones que enviarán texto y archivos respectivamente, y las ejecutará al final de cada mensaje. Este será otro punto a mejorar en versiones posteriores, si se quisiera hacer un agente más conversacional o con mejores funcionalidades.
 
 ## Conclusión
-Como comentarios finales del proyecto, cabe destacar que ha cumplido las expectativas tanto de tiempo como de alcance, siendo una solución válida para su uso comercial. Ya sea como buscador o agente conversacional, genera resultados correctos y sin alucinaciones, convirtiéndolo así en una solución fiable y rápida.
+Como comentarios finales del proyecto, cabe destacar que ha cumplido las expectativas tanto de tiempo como de alcance, siendo una solución válida para su uso comercial. Ya sea como buscador o agente conversacional, genera resultados correctos y sin alucinaciones, convirtiéndolo así en una solución fiable y rápida que podría ayudar al cliente en su búsqueda de un producto o en la creación de campañas comerciales para este.
 
 
 
