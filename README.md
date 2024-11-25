@@ -26,8 +26,14 @@ Una vez el agente está en funcionamiento, se le podrá mandar un mensaje median
 ## Ejemplos de uso
 *El agente se ha construido en inglés en este caso, ya que los datos de UPCItemDB también se reciben en inglés
 
+Los 2 ejemplos que muestro en este documento han sido llevados a cabo utilizando 2 números EAN diferentes:
+- 0050036399302: Altavoz JBL Go 4
+- 0791109269602: Apple MacBook Pro
+
 <br><br><br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/28c780d1-3f79-4a3c-aab9-26a0ee2765b5" alt="chatbot1" width="300"/>   
+   <figure>
+      <img src="https://github.com/user-attachments/assets/28c780d1-3f79-4a3c-aab9-26a0ee2765b5" alt="chatbot1" width="300"/>   
+      <figcaption>Telegram chat JBL Go 4.</figcaption>
 </div>
 <br><br><br>
