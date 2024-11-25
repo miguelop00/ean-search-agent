@@ -37,3 +37,14 @@ Los 2 ejemplos que muestro en este documento han sido llevados a cabo utilizando
       <figcaption>Telegram chat JBL Go 4.</figcaption>
 </div>
 <br><br><br>
+
+<style>
+  figure {
+    text-align: center;
+  }
+  figcaption {
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+  }
+</style>
