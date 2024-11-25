@@ -34,17 +34,9 @@ Los 2 ejemplos que muestro en este documento han sido llevados a cabo utilizando
 <div align="center">
    <figure>
       <img src="https://github.com/user-attachments/assets/28c780d1-3f79-4a3c-aab9-26a0ee2765b5" alt="chatbot1" width="300"/>   
-      <figcaption>Telegram chat JBL Go 4.</figcaption>
+      <figcaption style="font-size: 14px; color: gray; margin-top: 5px;">
+         Este es el pie de imagen para "chatbot1".
+      </figcaption>
 </div>
 <br><br><br>
 
-<style>
-  figure {
-    text-align: center;
-  }
-  figcaption {
-    font-size: 14px;
-    color: gray;
-    margin-top: 5px;
-  }
-</style>
