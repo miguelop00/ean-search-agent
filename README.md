@@ -18,4 +18,9 @@ Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
 
 Una vez el agente está en funcionamiento, se le podrá mandar un mensaje mediante Telegram, o en su defecto a través de una máquina local (localhost:8000) usando FastAPI. Como se especifica en los requisitos del proyecto, el agente devolverá una respuesta concisa respecto a la búsqueda, así como 3 archivos: ean.json, blocks.json y descriptive_blocks.html.
 
+- ean.json: Muestra información de producto, atendiendo a los campos que incluye la API de UPCItemDB. Campos como título, descripción, categorías, etc.
+- blocks.json: Bloques descriptivos generados por IA a partir de la información recibida en el archivo anterior. Estos bloques son más creativos, buscando un anuncio del producto o su venta.
+- descriptive_blocks.html: Archivo HTML creado por IA a partir de la información de los bloques descriptivos.
 
+
+## Ejemplos de uso
