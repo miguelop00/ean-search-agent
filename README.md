@@ -30,18 +30,12 @@ Los 2 ejemplos que muestro en este documento han sido llevados a cabo utilizando
 - 0050036399302: Altavoz JBL Go 4
 - 0791109269602: Apple MacBook Pro
 
-<br><br><br>
-<div style="display: flex; align-items: center;">
-  <!-- Imagen larga a la izquierda -->
-  <div>
-    <img src="https://github.com/user-attachments/assets/28c780d1-3f79-4a3c-aab9-26a0ee2765b5" alt="Imagen larga" style="width: 300px; height: auto;">
-  </div>
-
-  <!-- Contenedor de las imágenes verticales a la derecha -->
-  <div style="display: flex; flex-direction: column; margin-right: 10px;">
-    <img src="https://via.placeholder.com/150" alt="Imagen superior derecha" style="width: 150px; height: auto; margin-bottom: 10px;">
-    <img src="https://via.placeholder.com/150" alt="Imagen inferior derecha" style="width: 150px; height: auto;">
-  </div>
+<br><br>
+<div align="center">
+  <figure>
+     <img src="https://github.com/user-attachments/assets/28c780d1-3f79-4a3c-aab9-26a0ee2765b5" alt="movil jbl" width="250"/>
+  </figure>
+   
 </div>
 <br><br><br>
 
