@@ -24,3 +24,4 @@ Una vez el agente está en funcionamiento, se le podrá mandar un mensaje median
 
 
 ## Ejemplos de uso
+*El agente se ha construido en inglés en este caso, ya que los datos de UPCItemDB también se reciben en inglés*
