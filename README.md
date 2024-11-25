@@ -45,7 +45,18 @@ Si echamos un vistazo a los archivos generados, podremos ver que incluyen toda l
   <figure>
      <img src="https://github.com/user-attachments/assets/2ba92044-e40f-4440-b81b-c8068126a523" alt="ean jbl" width="400"/>
      <br>
-     <img src="https://github.com/user-attachments/assets/ca6ce798-7618-43ac-88ad-681950ddd245" alt="ean jbl" width="400"/>
+     <img src="https://github.com/user-attachments/assets/ca6ce798-7618-43ac-88ad-681950ddd245" alt="blocks jbl" width="400"/>
+  </figure>
+</div>
+<br><br><br>
+
+Tras haber generado los bloques descriptivos, el agente crea el último archivo restante en HTML. En este caso se muestran 2 capturas, una referente al EAN 0050036399302: Altavoz JBL Go 4, y la segunda al 0791109269602: Apple MacBook Pro. En estas capturas podemos ver que el LLM muestra cierta creatividad en cuanto al display de los bloques, aunque requerirá de un estudio humano para su despliegue, ya que en alguna ocasión puede generar bloques de texto-imagen muy diferentes en tamaño y forma.
+
+<br><br>
+<div align="center">
+  <figure>
+     <img src="https://github.com/user-attachments/assets/4782478a-60fb-4737-bfa4-7e86d99d7245" alt="html jbl" width="400"/>
+     <img src="https://github.com/user-attachments/assets/af9772d7-6416-47f6-b4cc-582a63e071e5" alt="html mac" width="420"/>
   </figure>
 </div>
 <br><br><br>
