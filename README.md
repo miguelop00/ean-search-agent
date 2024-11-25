@@ -30,7 +30,7 @@ Los 2 ejemplos que muestro en este documento han sido llevados a cabo utilizando
 - 0050036399302: Altavoz JBL Go 4
 - 0791109269602: Apple MacBook Pro
 
-En este primer ejemplo, se muestra como tras mandar como mensaje el numero EAN del producto, el agente devuelve una respuesta concisa en relación a la búsqueda, así como los 3 archivos requeridos por el proyecto:
+En este primer ejemplo, se muestra como tras mandar como mensaje el numero EAN del producto, el agente devuelve una respuesta concisa en relación a la búsqueda, así como los 3 archivos requeridos por el proyecto. También se le pregunta sobre un tema distinto a la búsqueda de productos, a lo que responde de forma correcta y concisa.
 <br><br>
 <div align="center">
   <figure>
@@ -55,8 +55,8 @@ Tras haber generado los bloques descriptivos, el agente crea el último archivo 
 <br><br>
 <div align="center">
   <figure>
-     <img src="https://github.com/user-attachments/assets/4782478a-60fb-4737-bfa4-7e86d99d7245" alt="html jbl" width="400"/>
-     <img src="https://github.com/user-attachments/assets/af9772d7-6416-47f6-b4cc-582a63e071e5" alt="html mac" width="420"/>
+     <img src="https://github.com/user-attachments/assets/4782478a-60fb-4737-bfa4-7e86d99d7245" alt="html jbl" width="350"/>
+     <img src="https://github.com/user-attachments/assets/af9772d7-6416-47f6-b4cc-582a63e071e5" alt="html mac" width="368"/>
   </figure>
 </div>
 <br><br><br>
