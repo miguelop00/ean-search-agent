@@ -12,7 +12,7 @@ URL_MICROSERVICIO = 'http://localhost:8000/run_agent'
 
 
 async def start(update: Update, context: CallbackContext):
-    await update.message.reply_text("¡Hola! Soy bot de pedidos, en que puedo ayudarte?")
+    await update.message.reply_text("¡Hola! Soy tu buscador de productos, en que puedo ayudarte?")
     
 
 async def manejar_mensaje(update: Update, context: CallbackContext):
