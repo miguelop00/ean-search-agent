@@ -9,8 +9,10 @@ Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
 ```bash
 git clone https://github.com/miguelop00/ean-search-agent.git
 ```
- `git clone https://github.com/miguelop00/ean-search-agent.git`
-2. Crear y activar un entorno virtual, para instalar los requerimientos del proyecto: <br> `pip install -r requirements.txt`
+2. Crear y activar un entorno virtual, para instalar los requerimientos del proyecto:
+```bash
+pip install -r requirements.txt
+```
 3. En el directorio de trabajo (ean-search-agent), crear un archivo .env en el cual se incluirán los campos de configuración de OpenAI y de Telegram:
    ```python
    #.env
