@@ -6,13 +6,13 @@ Este proyecto presenta un asistente de búsqueda de productos mediante números 
 
 Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
 1. Clonar el respositorio de Github:
-```bash
-git clone https://github.com/miguelop00/ean-search-agent.git
-```
+   ```bash
+   git clone https://github.com/miguelop00/ean-search-agent.git
+   ```
 2. Crear y activar un entorno virtual, para instalar los requerimientos del proyecto:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. En el directorio de trabajo (ean-search-agent), crear un archivo .env en el cual se incluirán los campos de configuración de OpenAI y de Telegram:
    ```python
    #.env
