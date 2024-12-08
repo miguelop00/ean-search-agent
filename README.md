@@ -20,10 +20,12 @@ Para empezar a utilizar el agente, se deben seguir los siguientes pasos:
    TELEGRAM_TOKEN = ''
    ```
    Para conseguir el token de Telegram, la manera más sencilla es utilizando "Botfather". Al crear un bot, él mismo dará los pasos a seguir y creará un bot totalmente operativo con su respectivo token.
+
 4. Ejecutar el agente: 
    ```bash
    python -m app.main
    ```
+
 5. En un nuevo terminal, ejecutar el bot de telegram:
    ```bash
    python -m telegram_bot.bot
