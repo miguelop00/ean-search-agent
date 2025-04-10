@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ean-search-agent
+  annotations:
+    github.com/project-slug: miguelop00/ean-search-agent
+spec:
+  type: other
+  lifecycle: unknown
+  owner: miguelop00
