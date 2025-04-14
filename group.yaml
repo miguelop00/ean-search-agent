@@ -10,15 +10,3 @@ spec:
     email: dev@example.com
     picture: https://example.com/groups/bu-infrastructure.jpeg
   members: [miguelop00]
-
-
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: miguelop00
-spec:
-  profile:
-    displayName: Miguel Olivares
-    email: miguel@example.com
-    picture: https://example.com/staff/jenny-with-party-hat.jpeg
-  memberOf: [development]
