@@ -9,4 +9,6 @@ spec:
     displayName: Development
     email: dev@example.com
     picture: https://example.com/groups/bu-infrastructure.jpeg
+  parent: ops
+  children: [backstage, other]
   members: [miguelop00]
