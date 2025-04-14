@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: development
+  description: Development unit
+spec:
+  type: business-unit
+  profile:
+    displayName: Development
+    email: dev@example.com
+    picture: https://example.com/groups/bu-infrastructure.jpeg
+  members: [miguelop00]
