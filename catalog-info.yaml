@@ -4,7 +4,14 @@ metadata:
   name: ean-search-agent
   annotations:
     github.com/project-slug: miguelop00/ean-search-agent
+  tags:
+    - python
+  links:
+    - url: https://localhost:8000/docs
+      title: LocalHost
+      icon: dashboard
+      type: admin-dashboard
 spec:
-  type: other
-  lifecycle: unknown
+  type: microservice
+  lifecycle: development
   owner: miguelop00
