@@ -11,5 +11,5 @@ metadata:
       title: LocalHost
 spec:
   type: microservice
-  lifecycle: development
+  lifecycle: experimental
   owner: development
