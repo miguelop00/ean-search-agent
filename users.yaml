@@ -7,12 +7,3 @@ spec:
     displayName: Miguel
     email: miguel@example.com
   memberOf: [development]
-
-kind: User
-metadata:
-  name: user2
-spec:
-  profile:
-    displayName: User2
-    email: user2@example.com
-  memberOf: [development]
