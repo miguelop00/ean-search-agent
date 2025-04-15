@@ -12,4 +12,4 @@ metadata:
 spec:
   type: microservice
   lifecycle: development
-  owner: miguelop00
+  owner: development
